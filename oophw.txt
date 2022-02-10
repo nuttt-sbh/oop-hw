@@ -1,0 +1,25 @@
+Public class Person {
+     Public String name;
+     Public int age;
+     
+     Private int getAge() {
+     Return age;
+}
+     Public void Printinformation() {
+     }
+}
+  Class Instructor extends Person {
+  Public void assingn(){
+  }
+}
+Class Student extends Person {
+   Protected int year;
+}
+Class Course {
+ Protected String name;
+ Protected double grade;
+}
+Class Select {
+  Protected float mark;
+  Protected String location;
+}
